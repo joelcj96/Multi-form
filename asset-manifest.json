@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Multi-form/static/css/main.263873da.css",
+    "main.js": "/Multi-form/static/js/main.088b0298.js",
+    "index.html": "/Multi-form/index.html",
+    "main.263873da.css.map": "/Multi-form/static/css/main.263873da.css.map",
+    "main.088b0298.js.map": "/Multi-form/static/js/main.088b0298.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.263873da.css",
+    "static/js/main.088b0298.js"
+  ]
+}

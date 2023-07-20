@@ -1,0 +1,27 @@
+/* Other.css */
+.form-content {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-content input {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    transition: border-color 0.3s ease;
+  }
+  
+  .form-content input:focus {
+    outline: none;
+    border-color: #007bff;
+  }
+  
+  .form-buttons {
+    margin-top: 20px;
+  }
+  
+  .form-buttons button {
+    margin-right: 10px;
+  }
+  
